@@ -1,1 +1,6 @@
 /build/
+*.class
+donghaeng-server_key.json
+*.jar
+DatabaseUtil.java
+config.txt
