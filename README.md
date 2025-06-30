@@ -4,6 +4,7 @@
 또 프론트 엔드 개발로는 안드로이드 스튜디오를 이용하여 안드로이드 애플리케이션을 제작하였습니다.
 
 ## 유스케이스
+![USECASE](https://github.com/user-attachments/assets/2d487c1a-9332-43cf-8b90-5aa421cb6db7)
 | 유스케이스 | 설명 |
 |:--------|:----------|
 | 회원가입/로그인 | 사용자는 학교 이메일로 회원가입 및 로그인 |
@@ -14,7 +15,10 @@
 
 ## 시스템 설계
 ### ER 다이어그램
-### 시퀀서 다이어그램
+![ER](https://github.com/user-attachments/assets/26025fd4-85c2-4823-b464-3bb6ef6baaca)
+
+### 시퀀스 다이어그램
+![SEQUENCE](https://github.com/user-attachments/assets/e476c6cc-b39c-4dd3-8520-a87c8a4ad775)
 
 ## 기술 설명
 ### 언어 및 프레임워크
